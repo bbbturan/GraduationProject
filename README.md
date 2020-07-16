@@ -1,2 +1,2 @@
 # GraduationProject
- This project developed for graduation project
+ This project developed for graduation project. Include two important steps of our project. First of these steps is creating models and save prediction results. train.py file represents this first step. In train.py, we made data training and created models via LSTM algorithm. Then save prediction results as csv file. app.py file represents our second step. It enables us to reach our models by our application developed with C#. 
